@@ -1,3 +1,5 @@
+package com.CodeWithJosh;
+
 class IfNumber {
     public static void main(String[] args) {
         int income = 120_000;
